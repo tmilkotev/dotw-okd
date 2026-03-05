@@ -1,1 +1,1 @@
-# dotw-openshift
+# dotw-okd
